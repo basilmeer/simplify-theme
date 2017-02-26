@@ -68,13 +68,48 @@ body {
   color: #dbffdc;
 }
 
+/* Custom */
+
 .main-color-bg {
     background-color: #59b660 !important;
     border-color: #44ad4c !important;
+    color: #ffffff !important;
+}
+
+/* Header */
+
+#header {
+    background: #333333;
+    color: #ffffff;
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+}
+
+#header .create {
+    padding-top: 20px;
+}
+
+/* Breadcrumbs */
+
+.breadcrumb {
+    background: #cccccc;
+    color: #333333;
+}
+
+.breadcrumb a {
+    color: #333333;
+}
+
+.progress-bar {
+    background: #333333;
     color: #ffffff;
 }
 
-/*      MEDIA QUERIES       */
+.dash-box {
+    text-align: center;
+}
+
+/* Media Queries */
 
 @media (max-width: 767px) {
   .navbar-default .navbar-nav .open .dropdown-menu > li > a {
