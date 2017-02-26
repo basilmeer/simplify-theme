@@ -68,7 +68,7 @@ body {
   color: #dbffdc;
 }
 
-/* Custom */
+/* Theme Color */
 
 .main-color-bg {
     background-color: #59b660 !important;
@@ -89,7 +89,7 @@ body {
     padding-top: 20px;
 }
 
-/* Breadcrumbs */
+/* Breadcrumb */
 
 .breadcrumb {
     background: #cccccc;
