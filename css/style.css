@@ -109,6 +109,16 @@ body {
     text-align: center;
 }
 
+/* Footer */
+
+#footer {
+    background: #333333;
+    color: #ffffff;
+    text-align: center;
+    padding: 18.5px;
+    margin-top: 30px;
+}
+
 /* Media Queries */
 
 @media (max-width: 767px) {
