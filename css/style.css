@@ -109,6 +109,22 @@ body {
     text-align: center;
 }
 
+/* Placeholder Text */
+
+.container-table {
+  height: 100%;
+  display: table;
+}
+
+.vertical-center-row {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+#placeholder .container {
+  text-align: center;
+}
+
 /* Footer */
 
 #footer {
