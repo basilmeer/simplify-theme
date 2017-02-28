@@ -109,21 +109,16 @@ body {
     text-align: center;
 }
 
-/* Placeholder Text */
+/* Pagination */
 
 .container-table {
-  height: 100%;
   display: table;
 }
 
-.vertical-center-row {
-  display: table-cell;
-  vertical-align: middle;
+.pagination {
+  display: flex;
 }
 
-#placeholder .container {
-  text-align: center;
-}
 
 /* Footer */
 

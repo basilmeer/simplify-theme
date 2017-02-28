@@ -14,3 +14,7 @@ html, body, .container-table {
 .container {
   text-align: center;
 }
+
+a {
+  font-size:16px;
+}
